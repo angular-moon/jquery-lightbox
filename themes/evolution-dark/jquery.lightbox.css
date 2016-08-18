@@ -9,6 +9,15 @@
   padding:17px 0;
 }
 
+.jquery-lightbox,
+.jquery-lightbox *,
+.jquery-lightbox *:before,
+.jquery-lightbox *:after {
+  -webkit-box-sizing: content-box !important;
+  -moz-box-sizing: content-box !important;
+  box-sizing: content-box !important;
+}
+
 .jquery-lightbox-border-top-left,
 .jquery-lightbox-border-top-right,
 .jquery-lightbox-border-bottom-left,
