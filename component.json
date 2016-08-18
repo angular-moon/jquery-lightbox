@@ -9,7 +9,7 @@
     ],
     "shim": {
         "jquery.lightbox.js": {
-            "deps": ["jquery","css!themes/evolution/jquery.lightbox.css"]
+            "deps": ["jquery","css!themes/evolution-dark/jquery.lightbox.css"]
         }
     }
 }
